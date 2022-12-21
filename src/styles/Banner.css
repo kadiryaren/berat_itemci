@@ -1,0 +1,14 @@
+.banner_container{
+    width: 100vw;
+    height: 180px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.banner_container > img{
+    height: 150px;
+    border: 1px solid tramsparent;
+    border-radius: 20px;
+}
